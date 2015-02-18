@@ -4,7 +4,7 @@ title: About
 ---
 
 Computer Science student.  
-Novice iOS developer.  
+iOS developer.  
 Leicester, UK.
 
 ##Apps
