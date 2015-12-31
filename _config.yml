@@ -4,7 +4,7 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
 title:            Sam Turnbull
@@ -17,6 +17,7 @@ author:
   name:           'Sam Turnbull'
   url:            https://twitter.com/sam_dunk
 
+gems:             [jekyll-paginate]
 paginate:         5
 
 # Custom vars
